@@ -3,9 +3,9 @@ import numpy as np
 students = np.array([
     "Saphal",
     "Shishir",
-    "Hari",
-    "Ram",
-    "Gita"
+    "Samir",
+    "Sahil",
+    "Prakash"
 ])
 
 marks = np.array([78, 45, 92, 67, 55])
